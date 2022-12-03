@@ -14,5 +14,12 @@ This is a hometask on e2e testing.
 
 ### Running the tests 
 
-You can run the tests by runing the following command in your terminal:
+1. You can run all the tests by runing the following command in your terminal:
     `yarn test`
+
+2. You can run the search scenario by running 
+   `yarn test "@search"`
+
+3. You can run the logo scenario by running 
+   `yarn test "@logo"`
+
